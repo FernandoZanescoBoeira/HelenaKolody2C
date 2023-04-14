@@ -2,5 +2,15 @@
     background-color: aqua;
 }
 .cabeçalho h1{
-    color: rgb(194, 50, 50);
-}
+    color: rgb(238, 231, 231);
+    }
+    .cabeçalho h1{
+        font-style: oblique;
+    }
+    .cabeçalho h1{
+        background-color: darkgreen;
+    }
+    .paragrafo-ingrid{
+        background-color: rgb(247, 10, 247);
+        font-weight: 50;
+    }
