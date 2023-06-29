@@ -1,5 +1,5 @@
 .cabeçalho{
-    background-color: aqua;
+    background-color: rgb(9, 255, 0);
 }
 .cabeçalho h1{
     color: rgb(238, 231, 231);
@@ -8,9 +8,9 @@
         font-style: oblique;
     }
     .cabeçalho h1{
-        background-color: rgb(27, 0, 100);
+        background-color: rgb(100, 65, 0);
     }
     .paragrafo-ingrid{
-        background-color: rgb(247, 66, 53);
+        background-color: rgb(192, 50, 145);
         font-weight: 50;
     }
